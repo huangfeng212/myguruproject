@@ -13,6 +13,7 @@ public class Greeting {
 		this.id = id;
 		this.content = content;
 		strings.add("strings is null");
+		strings.add("strings is null");
 	}
 
 	public long getId() {
